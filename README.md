@@ -27,4 +27,4 @@ Access status -> Targets, both endpoints must be "UP")
      - Import dashboard
      - Upload dashboard.json from /docker
      
- Artículo completo sobre este ejemplo [acá](https://blog.sacavix.com/?p=626)
+ Artículo completo sobre este ejemplo [acá](https://sacavix.com/2020/06/14/resilience4j-tolerancia-a-fallos-completa/)
